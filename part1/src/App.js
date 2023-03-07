@@ -76,7 +76,7 @@ const App = () => {
         {course.parts[1].name} {course.parts[1].exercises}
       </p>
       <p>
-        {course.parts[1].name} {course.parts[1].exercises}
+        {course.parts[2].name} {course.parts[2].exercises}
       </p>
     </div>
   );
